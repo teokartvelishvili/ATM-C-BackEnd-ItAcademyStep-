@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\bin\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).exe
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\bin\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).deps.json
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\bin\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).runtimeconfig.json
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\bin\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).dll
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\bin\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).pdb
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).AssemblyInfo.cs
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).dll
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\refint\ATM-C#BackEnd(ItAcademyStep).dll
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).pdb
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ATM-C#BackEnd(ItAcademyStep).genruntimeconfig.cache
+C:\Users\user\Desktop\IT Academy Step\ATM-C#BackEnd(ItAcademyStep)\ATM-C#BackEnd(ItAcademyStep)\obj\Debug\net8.0\ref\ATM-C#BackEnd(ItAcademyStep).dll
